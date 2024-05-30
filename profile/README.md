@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome 👋🏻
+  
+This project was started to simplify the deployment and hosting of static web applications. Over the years we've done many projects and had to go through the same process of setting up <a href="https://aws.amazon.com" target="_blank">AWS</a> to host each one individually, now we have <a href="https://servemy.site" target="_blank">**servemy.site**</a>. 
